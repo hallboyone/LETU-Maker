@@ -10,4 +10,5 @@ The design makes use of a modules attached to the x-carriage which share a commo
 4. Rotary Tool Mount
 
 Several other modules are being developed such a laser cutter. 
-![alt text](https://github.com/hallboyone/LETU-Maker/base_img.png "Logo Title Text 1")
+![](https://github.com/hallboyone/LETU-Maker/printer.png)
+
