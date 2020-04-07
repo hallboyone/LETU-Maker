@@ -13,4 +13,4 @@ Several other modules are being developed such a laser cutter. In the figure bel
 
 ![](https://github.com/hallboyone/LETU-Maker/blob/master/CAD/Autodesk%20Inventor/Base_3001-5999/Assemblies/LETU-Maker_w_Print_Module.png)
 
-The design is originally derived from the LETUs-RAP, developed at Letourneau University during the Fall of 2014 for a freshman engineering lab. The original design was exclusivly for 3D printing and suffered from a few drawbacks such as a lack of rigidity and frequent extruder failure. This new design solves those problems and expands its capabilities to several other common Maker activities.
+The design is derived from the LETUs-RAP which was developed at Letourneau University during the Fall of 2014 for a freshman engineering lab. The original design was exclusivly a 3D printer and suffered from several drawbacks such as a lack of rigidity and frequent extruder failure. This new design solves these problems and others while expanding its capabilities to several other common Maker activities.
