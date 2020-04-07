@@ -9,6 +9,8 @@ The design makes use of a modules attached to the x-carriage which share a commo
 3. Driven-Blade Plotter
 4. Rotary Tool Mount
 
-Several other modules are being developed such a laser cutter. 
-![](https://github.com/hallboyone/LETU-Maker/blob/master/printer.png)
+Several other modules are being developed such a laser cutter. In the figure below, the base can be seen with the 3D Printer Module fitted.
 
+![](https://github.com/hallboyone/LETU-Maker/blob/master/CAD/Autodesk%20Inventor/Base_3001-5999/Assemblies/LETU-Maker_w_Print_Module.png)
+
+The design is originally derived from the LETUs-RAP, developed at Letourneau University during the Fall of 2014 for a freshman engineering lab. The original design was exclusivly for 3D printing and suffered from a few drawbacks such as a lack of rigidity and frequent extruder failure. This new design solves those problems and expands its capabilities to several other common Maker activities.
